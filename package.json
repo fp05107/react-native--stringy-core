@@ -1,0 +1,22 @@
+{
+  "name": "react-native-stringy-core",
+  "version": "1.0.0",
+  "description": "string manipulation in react-native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fp05107/react-native-stringy-core.git"
+  },
+  "keywords": [
+    "react-native-stringy-core"
+  ],
+  "author": "subham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fp05107/react-native-stringy-core/issues"
+  },
+  "homepage": "https://github.com/fp05107/react-native-stringy-core#readme"
+}
