@@ -18,3 +18,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./stringy-core/reverseString"), exports);
 __exportStar(require("./stringy-core/capitalize"), exports);
 __exportStar(require("./stringy-core/concatStrings"), exports);
+__exportStar(require("./stringy-core/truncateString"), exports);
+__exportStar(require("./stringy-core/shuffleString"), exports);
+__exportStar(require("./stringy-core/countWords"), exports);
