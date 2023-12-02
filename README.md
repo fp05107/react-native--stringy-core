@@ -10,3 +10,5 @@ String manipulation library for React Native applications.
 
 ```bash
 npm install react-native-stringy-core
+
+Make sure to customize the installation instructions, usage examples, and add more details about each method if needed. Additionally, include any relevant information such as contributing guidelines, code of conduct, or other documentation specific to your project.
