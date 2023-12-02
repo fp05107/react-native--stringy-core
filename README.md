@@ -1,33 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>React Native Stringy Core</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      color: #333;
-      max-width: 800px;
-      margin: 0 auto;
-    }
-    h1, h2, h3 {
-      color: #0366d6;
-    }
-    code {
-      background-color: #f5f5f5;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #f5f5f5;
-      padding: 8px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-  </style>
-</head>
+
 <body>
 
 <h1>React Native Stringy Core</h1>
