@@ -13,6 +13,9 @@
   "keywords": [
     "react-native-stringy-core"
   ],
+  "dependencies": {
+    "react-native": "^0.72.7"
+  },
   "author": "subham",
   "license": "ISC",
   "bugs": {
